@@ -6,7 +6,7 @@ Meu nome é Leonardo Figueredo
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-### Você entrar em conatao comigo 📫
+### Para você entrar em contato comigo 📫
 
 00001124442765SP@al.educacao.sp.gov
 
